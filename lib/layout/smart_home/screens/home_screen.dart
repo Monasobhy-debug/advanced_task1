@@ -103,11 +103,6 @@ class _HomeState extends State<Home> {
                             ),
                           ],
                         ),
-                        // Text(
-                        //   '20.3 Kwh',
-                        //   style: TextStyle(
-                        //       fontSize: 20.0, fontWeight: FontWeight.bold),
-                        // ),
                         Text(
                           'Power Usage for Today ',
                           style: TextStyle(fontSize: 10.0, color: Colors.grey),
